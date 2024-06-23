@@ -28,7 +28,7 @@ This repository contains a Node.js application that automates transactions on th
 
 4. **Prepare private keys:**
 
-   - Edit `privateKeys.json` to include your Ethereum private keys as an array of strings.
+   - Create/edit `privateKeys.json` to include your Ethereum private keys as an array of strings.
 
 ## Usage
 
